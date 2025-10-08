@@ -14,4 +14,5 @@ while i<= 5:
     n=n+i
     i=i+1
 print("sum of number from 1 to 5", n)
+ print()
 
